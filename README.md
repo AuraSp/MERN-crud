@@ -17,7 +17,7 @@ The application interacts with a MongoDB database through a custom-built API gat
 - Batch Operations
 - Data Validation
 
-<img src='https://imgur.com/eFGwbxG.png' type="image/png" width='500' height='auto' />\
+<img src='https://i.imgur.com/UYiXOTp.png'  width='500' height='auto' />\
 <i>Caption: Example screenshot of the application interface.</i>\
 You can read more in <a href='https://github.com/AuraSp/MERN-crud/wiki/1.Home'>Wiki</a>
 
